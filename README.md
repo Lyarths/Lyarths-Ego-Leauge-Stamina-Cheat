@@ -1,5 +1,5 @@
 # Lyarths-Ego-Leauge-Stamina-Cheat
-# Thanks to skyze for the help! github.com/skyzehook
+# Thanks to skyze for the help! https://github.com/skyzehook
 
 basic Ego Leauge External Stamina Cheat
 program genel olarak böyle dostlar işinize yaradıysa sevinirim eğer unicode kullanıyorsanız suan bu ansi olması lazım ama benim visual studio biraz boktan aq bisekilde yazdık
